@@ -18,8 +18,8 @@
 
 ---
 
-<a href="https://hbiede.com">
-  <img alt="HBiede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZeitgeberH&show_icons=true&hide_border=true&count_private=true" />
+<a >
+  <img alt="ZeitgeberH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZeitgeberH&show_icons=true&hide_border=true&count_private=true" />
   <br />
   <img alt="ZeitgeberH's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeitgeberH&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=HTML,CSS" />
 </a>
