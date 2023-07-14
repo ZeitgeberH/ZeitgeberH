@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I am a Systems Neuroscientist.
 
-- 🔭 I’m currently working on analysis of single cell/nucleus RNA sequencing data and patch-seq data
+- 🔭 I’m currently working on analysis and modeling of neuronal data.
 
 - 😄 Pronouns: he/him
